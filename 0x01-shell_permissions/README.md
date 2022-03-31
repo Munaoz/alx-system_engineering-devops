@@ -1,3 +1,4 @@
 i am betty
 whoami
 groups 
+change betty to hello 
