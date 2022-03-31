@@ -4,4 +4,5 @@ groups
 change betty to hello
 empty  
 execute`
-multiple permission 
+multiple permission
+everybody 
