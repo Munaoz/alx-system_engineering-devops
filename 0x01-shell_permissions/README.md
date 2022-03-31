@@ -1,2 +1,3 @@
 i am betty
-whoami 
+whoami
+groups 
