@@ -1,4 +1,5 @@
 i am betty
 whoami
 groups 
-change betty to hello 
+change betty to hello
+empty  
