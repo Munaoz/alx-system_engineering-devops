@@ -1,18 +1,49 @@
-prsnt absolute  directory
-display content of current directory
-change the working directory to user home directory
-Display current directory contents in long format
-Display content including hidden files.
-Display current directory contents -long format and hidden files 
-Betty in my first directory
-8-firstdelete
-9-firstdirdeletion
-10-back
-11-lists
-12-file_type
-13-symbolic_link
-14-copy_html
-100-lets_move
-101-clean_emacs
-103-commas
-school.mgc
+0-current_working_directory: text/plain
+
+100-lets_move:               text/plain
+
+101-clean_emacs:             text/plain
+
+102-tree:                    text/plain
+
+103-commas:                  text/plain
+
+10-back:                     text/plain
+
+11-lists:                    text/plain
+
+12-file_type:                text/plain
+
+13-symbolic_link:            text/plain
+
+14-copy_html:                text/plain
+
+1-listit:                    text/plain
+
+2-bring_me_home:             text/plain
+
+3-listfiles:                 text/plain
+
+4-listmorefiles:             text/plain
+
+5-listfilesdigitonly:        text/plain
+
+6-firstdirectory:            text/plain
+
+7-movethatfile:              text/plain
+
+8-firstdelete:               text/plain
+
+9-firstdirdeletion:          text/plain
+
+fake_school0:                text/plain
+
+fake_school1:                text/plain
+
+file_school0:                School
+
+file_school1:                School
+
+file_test0:                  inode/x-empty
+
+h_school.mgc:                application/octet-stream
