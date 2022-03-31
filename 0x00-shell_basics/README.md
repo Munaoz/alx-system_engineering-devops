@@ -7,3 +7,4 @@ Display current directory contents -long format and hidden files
 Betty in my first directory
 8-firstdelete
 9-firstdirdeletion
+10-back
