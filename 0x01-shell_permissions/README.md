@@ -10,4 +10,5 @@ multiple permission
 everybody
 James Bond 
 9-John_Doe
-10-mirror_permissions
+10-mirror_permission
+11-directories_permissions
