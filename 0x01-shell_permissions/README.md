@@ -3,3 +3,4 @@ whoami
 groups 
 change betty to hello
 empty  
+execute`
