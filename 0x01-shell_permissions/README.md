@@ -1,4 +1,6 @@
-i am betty
+rrrrrrrrrr
+r_permissions
+rrrrrrrrrrrrr
 whoami
 groups 
 change betty to hello
@@ -8,3 +10,4 @@ multiple permission
 everybody
 James Bond 
 9-John_Doe
+10-mirror_permissions
